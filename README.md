@@ -44,11 +44,6 @@
 
 ---
 
-### 👨‍💻 All of my projects are available at  
-- https://github.com/krbablu09  
-
----
-
 ### 📝 I regularly write articles on  
 - (Will update soon 🚀)  
 
