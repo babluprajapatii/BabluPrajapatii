@@ -1,82 +1,274 @@
-<h1 align="center">Hi 👋, I'm Bablu Prajapati</h1> 
+<h1 align="center">Hi 👋, I'm Bablu Kumar</h1>
 
-### A passionate AI/ML enthusiast & B.Tech CSE student from India  
+<h3 align="center">
+AI/ML Engineer in the Making • Generative AI • Python • Data Science • Full-Stack AI
+</h3>
 
----
-
-### 🔭 I’m currently working on  
-- Employee Salary Prediction (Machine Learning Project)  
-- Improving DSA skills with Python  
-- Data Analysis & Visualization projects  
-
----
-
-### 👯 I’m looking to collaborate on  
-- Open-source AI/ML or Data Science projects  
-- Beginner-friendly Python projects  
-
----
-
-### 🤝 I’m looking for help with  
-- Advanced Machine Learning concepts  
-- Real-world AI project building  
-
----
-
-### 🌱 I’m currently learning  
-- Machine Learning  
-- Data Science  
-- Statistics  
-- Python Libraries (NumPy, Pandas, Matplotlib)  
-
----
-
-### 💬 Ask me about  
-- Python  
-- Data Analysis  
-- Machine Learning basics  
-- DSA with Python  
-
----
-
-### 📫 How to reach me  
-- 📧 bablukumar2232005@gmail.com  
-
----
-
-### 📝 I regularly write articles on  
-- (Will update soon 🚀)  
-
----
-
-### 📄 Know about my experiences  
-- (Add your resume link here later)  
-
----
-
-### ⚡ Fun fact  
-- I believe consistency beats talent 🚀  
-
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=babluprajapatii&label=Profile%20views&color=0e75b6&style=flat" alt="babluprajapatii" /> 
+<p align="center">
+  <a href="https://github.com/babluprajapatii">
+    <img src="https://komarev.com/ghpvc/?username=babluprajapatii&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  </a>
+  <a href="https://github.com/babluprajapatii?tab=followers">
+    <img src="https://img.shields.io/github/followers/babluprajapatii?label=Followers&style=flat" alt="GitHub Followers" />
+  </a>
+  <a href="https://github.com/babluprajapatii?tab=repositories">
+    <img src="https://img.shields.io/github/stars/babluprajapatii?label=Total%20Stars&style=flat" alt="GitHub Stars" />
+  </a>
 </p>
 
-<p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=babluprajapatii" alt="babluprajapatii" />
-  </a> 
+---
+
+## 👨‍💻 About Me
+
+I'm **Bablu Kumar**, a B.Tech Computer Science Engineering student passionate about building intelligent and useful software.
+
+I enjoy working at the intersection of **Machine Learning, Generative AI, Data Science, and Full-Stack Development**.
+
+My focus is shifting from learning individual technologies to building **end-to-end AI-powered products** that solve real-world problems.
+
+* 🎓 B.Tech CSE | 2023–2027
+* 🤖 Focused on **AI/ML & Generative AI**
+* 🐍 Building with **Python**
+* 📊 Exploring **Data Science, Statistics & Machine Learning**
+* 🌐 Building **AI-powered full-stack applications**
+* 🧠 Learning **LLMs, AI Agents, RAG & AI system design**
+* 🚀 Interested in **AI Engineering and production-ready applications**
+* 🤝 Open to collaborating on interesting **AI/ML, GenAI and open-source projects**
+
+---
+
+## 🚀 What I'm Building
+
+I'm currently focused on projects that combine AI with practical applications:
+
+### ⚖️ LegalEase-AI
+
+**GenAI Legal Document Intelligence Platform**
+
+A document-analysis platform that uses AI to transform complex legal documents into:
+
+* Plain-language summaries
+* Key clauses
+* Risk flags
+* Obligations and deadlines
+* Grounded document Q&A
+* Side-by-side document comparison
+
+**Stack:** Next.js • React • TypeScript • Express.js • Firebase • Google Cloud • Vertex AI • Gemini
+
+🔗 [View Repository](https://github.com/babluprajapatii/LegalEase-AI)
+
+---
+
+### 🌱 EcoGuide AI
+
+**AI-Powered Sustainability & Carbon Footprint Platform**
+
+A full-stack platform for tracking carbon footprint and helping users make more sustainable decisions through:
+
+* Carbon footprint calculations
+* AI sustainability coaching
+* What-if impact simulation
+* Gamification
+* Community leaderboard
+* Accessibility-focused UI
+
+**Stack:** Next.js • React • TypeScript • Tailwind CSS • Supabase • Claude API • Vercel
+
+🔗 [View Repository](https://github.com/babluprajapatii/ecoguide-ai)
+🌐 [Live Demo](https://ecoguide-ai-lovat.vercel.app/)
+
+---
+
+### 🏟️ StadiumPulse AI
+
+**AI-Powered Stadium Management Platform**
+
+A multi-role stadium management system combining real-time operational tools with Generative AI.
+
+Includes dashboards and workflows for:
+
+* Fans
+* Organizers
+* Security teams
+* Operations
+* AI-powered insights
+* Event and crowd intelligence
+
+**Stack:** Next.js • React • TypeScript • Supabase • Tailwind CSS • Gemini • Recharts
+
+🔗 [View Repository](https://github.com/babluprajapatii/stadiumpluse-ai)
+
+---
+
+### ☄️ Hazardous Asteroid Prediction AI
+
+**End-to-End Machine Learning Classification System**
+
+A machine-learning system for classifying potentially hazardous Near-Earth Objects.
+
+The project includes:
+
+* Data preprocessing
+* Exploratory data analysis
+* Feature selection
+* Model benchmarking
+* Class-imbalance handling
+* Hyperparameter tuning
+* Explainable AI
+* Streamlit deployment
+
+**Stack:** Python • NumPy • Pandas • Scikit-learn • Imbalanced-learn • Matplotlib • Seaborn • Streamlit
+
+🔗 [View Repository](https://github.com/babluprajapatii/hazardous-asteroid-prediction-ai)
+
+---
+
+## 🧠 Technical Skills
+
+### Programming
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java,sql" />
 </p>
 
-<h3 align="left">Connect with me:</h3>
+### AI / Machine Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" />
+</p>
+
+**Machine Learning • Data Preprocessing • Feature Engineering • Supervised Learning • Classification • Model Evaluation • Statistics • Explainable AI • Generative AI • LLM Applications**
+
+### Data Science
+
+**NumPy • Pandas • Matplotlib • Seaborn • Scikit-learn**
+
+### Web & Full-Stack
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,tailwind" />
+</p>
+
+### Backend / Database / Cloud
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,supabase,firebase,gcp,docker" />
+</p>
+
+### Developer Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,anaconda" />
+</p>
+
+---
+
+## 📚 Current Learning Path
+
+```text
+Python
+   ↓
+NumPy & Pandas
+   ↓
+Statistics & Data Analysis
+   ↓
+Data Visualization
+   ↓
+Machine Learning
+   ↓
+Feature Engineering & Model Optimization
+   ↓
+Deep Learning
+   ↓
+Generative AI & LLMs
+   ↓
+RAG & AI Agents
+   ↓
+MLOps & AI Deployment
+```
+
+---
+
+## ⭐ Featured Repositories
+
+| Project                                                                                                 | Area                | Technology           |
+| ------------------------------------------------------------------------------------------------------- | ------------------- | -------------------- |
+| [LegalEase-AI](https://github.com/babluprajapatii/LegalEase-AI)                                         | GenAI / Legal Tech  | Next.js, Vertex AI   |
+| [EcoGuide AI](https://github.com/babluprajapatii/ecoguide-ai)                                           | AI / Sustainability | Next.js, Supabase    |
+| [StadiumPulse AI](https://github.com/babluprajapatii/stadiumpluse-ai)                                   | GenAI / Full Stack  | Next.js, Gemini      |
+| [Hazardous Asteroid Prediction AI](https://github.com/babluprajapatii/hazardous-asteroid-prediction-ai) | Machine Learning    | Python, Scikit-learn |
+| [Data Visualization](https://github.com/babluprajapatii/Data-Visualization)                             | Data Science        | Pandas, Matplotlib   |
+| [Pandas](https://github.com/babluprajapatii/Pandas)                                                     | Data Science        | Python, Pandas       |
+| [NumPy](https://github.com/babluprajapatii/Numpy)                                                       | Data Science        | Python, NumPy        |
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=babluprajapatii&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=babluprajapatii&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=babluprajapatii&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🏆 Achievements & Activities
+
+* 🏅 Participated in **Generative AI / Hackathon challenges**
+* 🚀 Built and deployed multiple **AI-powered applications**
+* 🧠 Working on **Machine Learning and Data Science projects**
+* 💻 Practicing **DSA with Python**
+* 🛠️ Exploring **Vibe Coding and AI-assisted development**
+* 📚 Continuously building projects to strengthen practical engineering skills
+
+---
+
+## 🎯 2026 Goals
+
+```text
+✅ Strengthen Python & DSA
+✅ Build real-world Machine Learning projects
+✅ Build production-ready GenAI applications
+🔄 Learn Deep Learning
+🔄 Learn RAG & AI Agents
+🔄 Improve system design
+🔄 Explore MLOps
+🎯 Become a strong AI/ML Engineer
+```
+
+---
+
+## 🤝 Let's Connect
+
 <p align="left">
-<a href="https://linkedin.com/in/bablu-kumar-2b5636275" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bablu-kumar-2b5636275" height="30" width="40" /></a>
-<a href="https://instagram.com/bablu.prajapatii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bablu.prajapatii" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/bablukumarprajapati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="bablukumarprajapati" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/bablu-kumar-2b5636275" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" width="45" />
+</a>
+&nbsp;
+<a href="https://github.com/babluprajapatii" target="_blank">
+<img src="https://skillicons.dev/icons?i=github" width="45" />
+</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+📧 **Email:** [bablukumar2232005@gmail.com](mailto:bablukumar2232005@gmail.com)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=babluprajapatii&show_icons=true&locale=en&layout=compact" alt="babluprajapatii" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=babluprajapatii&show_icons=true&locale=en" alt="babluprajapatii" /></p>
+## 💡 My Philosophy
+
+> **Learn → Build → Break → Debug → Improve → Repeat.**
+
+I believe the fastest way to grow as an engineer is to keep building, experimenting, and solving real problems.
+
+---
+
+<h3 align="center">🚀 Building with AI, one project at a time.</h3>
+
+<p align="center">
+  ⭐ Explore my repositories • 🤝 Collaborate • 💡 Build something useful
+</p>
